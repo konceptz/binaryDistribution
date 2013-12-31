@@ -11,7 +11,7 @@ OUTPUT
 
 This program will stupidly generate a list of all encountered ASCII values or show 0 for non-encountered values.  Which will give the user some overview as to what kind of file is being scanned.  
 
-For example, a text file with only lower case characters will show incremented values from 97-122.
+For example, a text file with _only_ lower case characters will show incremented values from 97-122.
 
 
 TODO
