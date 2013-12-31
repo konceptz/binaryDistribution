@@ -1,8 +1,3 @@
-Author
-======
-Arthur Hinds<br>
-December 2013
-
 binaryDistribution
 ==================
 
@@ -27,3 +22,7 @@ Find some way to include a smart analysis into what kind of file we have just ch
 This could be a clue, or at least a path I can take.
 http://www-archive.mozilla.org/projects/intl/UniversalCharsetDetection.html
 
+Author
+======
+Arthur Hinds<br>
+December 2013
