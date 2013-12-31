@@ -1,3 +1,8 @@
+Author
+======
+Arthur Hinds<br>
+December 2013
+
 binaryDistribution
 ==================
 
